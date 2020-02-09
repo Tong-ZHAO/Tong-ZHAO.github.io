@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong ZHAO / Site Title"
+title                    : "Involve me, I will learn!"
 title_separator          : "-"
-name                     : &name "Tong ZHAO"
-description              : &description "personal description"
+name                     : "Tong ZHAO"
+description              : "Ph.D Candidate at INRIA Sophia-Antipolis & Telecom Paris"
 url                      : https://tong-zhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tong-ZHAO/tong-zhao.github.io"
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Paris, France"
-  employer         : "INRIA Sophia-Antipolis"
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
