@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Conference
+======
 
-{% include base_path %}
+2016
+-----
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Yi Yang, Feng Chen, Xiaoming Chen, Yan Dai, Zhenyang Chen, Jiang Ji, **Tong Zhao**, [Video system for human attribute analysis using compact convolutional neural network, 2016 IEEE International Conference on Image Processing (ICIP)](https://tong-zhao.github.io/publication/2016-09-27-Video), Phoenix, AZ, 2016, pp. 584-588.
+
+
