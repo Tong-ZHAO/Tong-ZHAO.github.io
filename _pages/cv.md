@@ -9,51 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+I am a Ph.D. student at [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia) since December 2019 within the [TITANE Team](https://team.inria.fr/titane/) under the supervision of Prof. [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) and Prof. [Laurent Busé](http://www-sop.inria.fr/members/Laurent.Buse/). My Ph.D. topic is "Learning priors and metrics for 3D reconstruction of large-scale scenes", funded by [3IA Cote d'Azur](http://univ-cotedazur.fr/institutes/3IA/home).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computational Geometry, [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia), 2022 (Expected)
+* M.S. (Dipl. Ing.) in Applied Mathematics and Computer Science, [Ecole des Ponts ParisTech](http://www.enpc.fr), 2019
+* M.S. (M2) in [Mathématique, Vision, Apprentissage](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) (MVA), [Ecole Normale Supérieure Paris-Saclay](http://ens-paris-saclay.fr), 2019
+* B.S. in Information Security, [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Algorithm research intern at [TITANE Team](https://team.inria.fr/titane/) ([INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia)) and [CG Group](http://www.tsi.telecom-paristech.fr/cg/) (**[Télécom ParisTech](https://www.telecom-paristech.fr)**), Apr 2019 - Sep 2019
+  * Surface reconstruction with shape priors
+  * Triangulation-based Poisson Reconstruction
+
+* Visiting student at [Caltech](http://www.caltech.edu), May 2018 - Sep 2018
+  * Point set denoising with Machine learning algorithms
+  * Spectral Surface Reconstruction
+
+* Algorithm research intern at [TITANE Group](https://team.inria.fr/titane/) ([INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia)), Jan 2018 - May 2018
+  * Find sophisticated geometrical features for the classification of big point cloud data.
+  * 3D deep net for point clouds.
+
+* Quantitative analysis assistant at [BNP Paribas](https://www.bnpparibas-am.com/en/), Jul 2017 - Dec 2017
+  * Market timing model with Machine learning and Factor analysis.
+  * Develop a python library for financial data processing.
+
+* Algorithm research intern at Intel Asia-Pacific R&D Ltd. (Shanghai), Jul 2015 - Jul 2016
+  * Face attribution (eg. age, gender, race) recognition with convolutional neural network(CNN)
+  * Face recognition including face identification and face verification
+
+* Team member at Cryptography and Information Security Lab (SJTU), Jun 2013 - Jul 2016
+  * Database management
+  * The detection of abandoned objects algorithm
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Language: Chinese, French, English
+* Programming: C, C++, Python, Matlab

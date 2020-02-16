@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Involve me, I will learn!"
 title_separator          : "-"
-name                     : "Tong ZHAO"
-description              : "Ph.D Candidate at INRIA Sophia-Antipolis & Telecom Paris"
+name                     : &name "Tong ZHAO"
+description              : &description
 url                      : https://tong-zhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tong-ZHAO/tong-zhao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tong ZHAO"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D Candidate at INRIA Sophia-Antipolis & Telecom Paris"
   location         : "Paris, France"
   employer         : 
   pubmed           : 
