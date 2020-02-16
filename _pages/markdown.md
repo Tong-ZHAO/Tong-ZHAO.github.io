@@ -7,7 +7,26 @@ redirect_from:
   - /markdown.html
 ---
 
+Coming soon...
 
+<!--
+Music
+=====
+
+Sport
+=====
+
+Travelling
+=====
+
+<!--<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+
+Photography
+=====
+
+Dog
+=====
+-->
 
 <!--
 ## Locations of key files/directories
