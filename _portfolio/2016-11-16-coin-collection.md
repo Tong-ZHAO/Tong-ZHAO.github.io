@@ -2,6 +2,7 @@
 title: "Coin Collection Game (Python)"
 excerpt: "<img src='/assets/img/projects/coin.png'>"
 collection: portfolio
+date: 2016-11-16
 ---
 
 ![Screen shot](/assets/img/projects/coin.png)

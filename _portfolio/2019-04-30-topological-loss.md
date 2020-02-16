@@ -2,6 +2,7 @@
 title: "Beyond the Pixel-Wise Loss for Topology-Aware Delineation"
 excerpt: "<img src='/assets/img/projects/topological_loss.png'>"
 collection: portfolio
+date: 2019-04-30
 ---
 
 ![Picture](/assets/img/projects/topological_loss.png)

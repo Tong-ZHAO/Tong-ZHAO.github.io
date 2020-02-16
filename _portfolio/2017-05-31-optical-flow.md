@@ -2,6 +2,7 @@
 title: "Optical Flow"
 excerpt: "<img src='/assets/img/projects/optical.png'>"
 collection: portfolio
+date: 2017-05-31
 ---
 
 ![Screen shot](/assets/img/projects/optical.png)

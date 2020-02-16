@@ -2,6 +2,7 @@
 title: "Image Compression by Quadtree"
 excerpt: "<img src='/assets/img/projects/imagezip.png'>"
 collection: portfolio
+date: 2016-12-11
 ---
 
 ![Screen shot](/assets/img/projects/imagezip.png)

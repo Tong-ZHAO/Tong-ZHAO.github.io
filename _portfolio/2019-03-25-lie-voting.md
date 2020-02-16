@@ -2,6 +2,7 @@
 title: "Symmetry and Orbit Detection in Point Clouds"
 excerpt: "<img src='/assets/img/projects/lie_voting.png'>"
 collection: portfolio
+date: 2019-03-25
 ---
 
 ![Picture](/assets/img/projects/lie_voting.png)

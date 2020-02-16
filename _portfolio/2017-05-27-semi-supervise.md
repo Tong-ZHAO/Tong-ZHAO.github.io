@@ -2,6 +2,7 @@
 title: "Semi-Supervised Learning With Harmonic Functions"
 excerpt: "<img src='/assets/img/projects/semi.png'>"
 collection: portfolio
+date: 2017-05-27
 ---
 
 ![Picture](/assets/img/projects/semi.png)

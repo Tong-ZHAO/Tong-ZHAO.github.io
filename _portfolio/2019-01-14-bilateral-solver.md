@@ -2,6 +2,7 @@
 title: "Fast Bilateral Solver"
 excerpt: "<img src='/assets/img/projects/bilateral_solver.png'>"
 collection: portfolio
+date: 2019-01-14
 ---
 
 ![Picture](/assets/img/projects/bilateral_solver.png)
