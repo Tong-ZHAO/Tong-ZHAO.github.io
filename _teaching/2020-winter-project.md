@@ -1,13 +1,12 @@
 ---
 title: "Régularisation de formes 3D par dilation/érosion"
-collection: teaching
+collection: portfolio
 type: "MAM4 Project"
 permalink: /teaching/2020-winter-project.md
 venue: "POLYTECH Nice-Sophia"
 date: 2020-12-10
 location: "France"
 ---
-
 
 ## Data
 
