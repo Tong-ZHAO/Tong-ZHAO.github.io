@@ -9,8 +9,7 @@ location: "France"
 ---
 
 
-Data
-======
+## Data
 
 * [Box](../../../../assets/data/box.xy)
 
