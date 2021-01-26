@@ -16,3 +16,4 @@ Plus précisément, on cherche à évaluer efficacement une fonction de R3 dans 
 
 * [Box](../../../../assets/data/box.xy)
 * [Stacked Box](../../../../assets/data/stacked_box.xy)
+* [Star](../../../../assets/data/star.xy)
