@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. student at [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia) since December 2019 within the [TITANE Team](https://team.inria.fr/titane/) under the supervision of Prof. [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) and Prof. [Laurent Busé](http://www-sop.inria.fr/members/Laurent.Buse/). My Ph.D. topic is "Learning priors and metrics for 3D reconstruction of large-scale scenes", funded by [3IA Cote d'Azur](http://univ-cotedazur.fr/institutes/3IA/home).
 
+![](![Screen shot](/assets/img/logos.jpg)
+
 Research Interests
 -----
 
