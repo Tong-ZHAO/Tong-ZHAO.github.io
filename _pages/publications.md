@@ -8,7 +8,7 @@ author_profile: true
 2023
 -----
 
-1. **Variational Shape Reconstruction via Quadric Error Metrics**. <ins>Tong Zhao</ins>, Laurent Busé, David Cohen-Steiner, Tamy Boubekeur, Jean-Marc Thiery, Pierre Alliez. ACM SIGGRAPH 2023 Conference Proceedings (SIGGRAPH '23). Article 45, 1–10. \[[Page](https://inria.hal.science/hal-04131765)\]\[[Paper](https://inria.hal.science/hal-04131765)\] 
+1. **Variational Shape Reconstruction via Quadric Error Metrics**. <ins>Tong Zhao</ins>, Laurent Busé, David Cohen-Steiner, Tamy Boubekeur, Jean-Marc Thiery, Pierre Alliez. ACM SIGGRAPH 2023 Conference Proceedings (SIGGRAPH '23). Article 45, 1–10. \[[Page](https://tong-zhao.github.io/vsr/)\]\[[Paper](https://inria.hal.science/hal-04131765)\] 
 
 2. **Sharp Feature Consolidation from Raw 3D Point Clouds via Displacement Learning**. <ins>Tong Zhao</ins>, Mulin Yu, Pierre Alliez, Florent Lafarge. Computer Aided Geometric Design, vol. 103 (2023) \[[Page](https://inria.hal.science/hal-03747150)\]\[[Paper](https://inria.hal.science/hal-03747150)\]
 
