@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Ph.D. student at [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia) since December 2019 within the [TITANE Team](https://team.inria.fr/titane/) under the supervision of Prof. [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) and Prof. [Laurent Busé](http://www-sop.inria.fr/members/Laurent.Buse/). My Ph.D. topic is "Learning priors and metrics for 3D reconstruction of large-scale scenes", funded by [3IA Cote d'Azur](http://univ-cotedazur.fr/institutes/3IA/home).
-
 Education
 ======
-* Ph.D in Computational Geometry, [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia), 2022 (Expected)
+* Ph.D in Computational Geometry, [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia), 2023
 * M.S. (Dipl. Ing.) in Applied Mathematics and Computer Science, [Ecole des Ponts ParisTech](http://www.enpc.fr), 2019
 * M.S. (M2) in [Mathématique, Vision, Apprentissage](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) (MVA), [Ecole Normale Supérieure Paris-Saclay](http://ens-paris-saclay.fr), 2019
 * B.S. in Information Security, [Shanghai Jiao Tong University](http://www.sjtu.edu.cn), 2016
 
 Work experience
 ======
+
+* Research engineer at [Dassault Systèmes](https://www.3ds.com), Jan 2023 - Present
 
 * Algorithm research intern at [TITANE Team](https://team.inria.fr/titane/) ([INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia)) and [CG Group](http://www.tsi.telecom-paristech.fr/cg/) (**[Télécom ParisTech](https://www.telecom-paristech.fr)**), Apr 2019 - Sep 2019
   * Surface reconstruction with shape priors

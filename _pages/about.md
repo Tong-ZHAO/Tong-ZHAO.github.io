@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia) since December 2019 within the [TITANE Team](https://team.inria.fr/titane/) under the supervision of Prof. [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) and Prof. [Laurent Busé](http://www-sop.inria.fr/members/Laurent.Buse/). My Ph.D. topic is "Learning priors and metrics for 3D reconstruction of large-scale scenes", funded by [3IA Cote d'Azur](http://univ-cotedazur.fr/institutes/3IA/home).
+I am a research engineer at [Dassault Systèmes](https://www.3ds.com). I received my Ph.D. from [Université Côte d'Azur](https://univ-cotedazur.fr) in March 2023. I worked within the [TITANE Team](https://team.inria.fr/titane/) at [INRIA Sophia Antipolis Méditerranée](https://www.inria.fr/en/centre/sophia) under the supervision of Prof. [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/) and Prof. [Laurent Busé](http://www-sop.inria.fr/members/Laurent.Buse/) and I was a long-term visiting Ph.D. student in the [Computer Graphics Group](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci/research-teams/image-modeling-analysis-geometry-synthesis) at [Télécom Paris](https://www.telecom-paris.fr/fr/accueil) under the supervision of Prof. [Tamy Boubekeur](https://perso.telecom-paristech.fr/boubek/) and Prof. [Jean-Marc Thiery](https://research.adobe.com/person/jean-thiery/). My Ph.D. topic is "Progressive shape reconstruction from raw 3D point clouds", funded by [3IA Cote d'Azur](http://univ-cotedazur.fr/institutes/3IA/home). 
+
+Previously, I received my engineering (master) degree in Applied mathematics from [Ecole des Ponts ParisTech](https://ecoledesponts.fr) in 2019 and my bachelor degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn) in 2016. 
 
 ![](/assets/img/logos.jpg)
 
 Research Interests
 -----
 
-My research interest focus on Geometry Processing, including, but not limited to:
+My research interest focus on geometry processing, including, but not limited to:
 
 * Surface reconstruction from point clouds
-* Triangulation Mesh optimization
-* Finite Element Methods
-* Discrete Exterior Calculus
-* Shape detection
+* Volume and surface mesh optimization
+* Point cloud processing
 
 
 <!--
